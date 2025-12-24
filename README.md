@@ -28,7 +28,6 @@ This project implements a **Hybrid Database System** for an E-Commerce Inventory
 * `mongodb_schema.js` - JavaScript commands to create collections in MongoDB.
 * `populate_data.py` - Python script that generates 100+ synthetic records for both databases, ensuring referential integrity.
 * `hybrid_app.py` - The main application script that demonstrates the hybrid integration.
-* `queries.sql` - List of functional SQL queries used for testing.
 * `README.md` - Project documentation.
 
 ---
